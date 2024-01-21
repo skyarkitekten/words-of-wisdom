@@ -1,1 +1,1 @@
-# words-of-wisodm
+# words-of-wisdom
