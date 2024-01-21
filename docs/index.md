@@ -13,4 +13,6 @@ This is tome of wisdom. It contains all the wisdom of the world.
 1. Add wisdom
 2. Profit
 
-## How to build
+## How to architect software systems
+
+Read the manual [here](./architecture/how-to-architect.md).
